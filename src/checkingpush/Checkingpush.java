@@ -17,6 +17,7 @@ public class Checkingpush {
         // TODO code application logic here
     //initializnig git , gitconfig, .gitignore, comit , push
         System.out.println("hello)";
+        //pull
     }
     
     
