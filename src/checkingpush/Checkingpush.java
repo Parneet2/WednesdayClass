@@ -18,6 +18,7 @@ public class Checkingpush {
     //initializnig git , gitconfig, .gitignore, comit , push
         System.out.println("hello");
         //pull
+        //fetch and merge
     }
     
     
